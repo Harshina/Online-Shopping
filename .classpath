@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Jar File/jar/mailjar/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Jar File/jar/mailjar/mail.jar"/>
+	<classpathentry kind="lib" path="D:/project setup/apache-tomcat-7.0.57/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/project setup/apache-tomcat-7.0.57/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/project setup/apache-tomcat-7.0.57/lib/tomcat-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
